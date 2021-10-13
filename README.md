@@ -18,13 +18,12 @@
 
 </div>  
   
-  ##
+##
   
-  <div>
+<div>
     <a href="https://www.linkedin.com/in/davi-garcia-figueiredo-80196a200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.youtube.com/channel/UC1SCpJVKc3DYHjTXdpHVE6A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/DaviGFiguer/DaviGFiguer/blob/output/github-contribution-grid-snake.svg)
-
-
-    </div>
+    
+</div>
