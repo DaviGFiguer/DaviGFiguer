@@ -14,7 +14,7 @@
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Davi-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/863644196711956541/897988715140513802/219d1138f779cff90a9ac2bfb41716fa36c707bf.png?width=450&height=337">
+    <img align="right" alt="Davi-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/863644196711956541/897991179151478784/tumblr_6d697b5a3eb9a19706be1aead4d36489_219d1138_500.gif?width=450&height=337">
 
 </div>  
   
