@@ -29,6 +29,7 @@
   <div style="display: inline_block"><br>
       <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="right" alt="Davi-gif" height="150" width="150" src="https://media.discordapp.net/attachments/863644196711956541/898166187870007296/01e625_7e1ff01791204b3e85e1bdc2b37d4a03.gif?width=225&height=225" />
   </div>
   
 ##
@@ -36,8 +37,7 @@
 <div>
     <a href="https://www.linkedin.com/in/davi-garcia-figueiredo-80196a200/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.youtube.com/channel/UC1SCpJVKc3DYHjTXdpHVE6A" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <br>
-  <img align="center" alt="wallpaper" src="https://media.discordapp.net/attachments/863644196711956541/898190672656498698/288-2885603_synthwave-wallpaper-gif.gif?width=852&height=480">
+  
 
   ![Snake animation](https://github.com/DaviGFiguer/DaviGFiguer/blob/output/github-contribution-grid-snake.svg)
     
