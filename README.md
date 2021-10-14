@@ -16,6 +16,8 @@
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Davi-Python" height="30" width="40" src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png">
+
     <img align="right" alt="Davi-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/863644196711956541/898166187870007296/01e625_7e1ff01791204b3e85e1bdc2b37d4a03.gif?width=225&height=225">
 
 </div>  
