@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/DaviGFiguer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviGFiguer&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviGFiguer&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviGFiguer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviGFiguer&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   ##
@@ -36,6 +36,8 @@
 <div>
     <a href="https://www.linkedin.com/in/davi-garcia-figueiredo-80196a200/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.youtube.com/channel/UC1SCpJVKc3DYHjTXdpHVE6A" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <br>
+  <img align="center" alt="wallpaper" src="https://media.discordapp.net/attachments/863644196711956541/898190672656498698/288-2885603_synthwave-wallpaper-gif.gif?width=852&height=480">
 
   ![Snake animation](https://github.com/DaviGFiguer/DaviGFiguer/blob/output/github-contribution-grid-snake.svg)
     
