@@ -14,7 +14,7 @@
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Davi-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/863644196711956541/897991179151478784/tumblr_6d697b5a3eb9a19706be1aead4d36489_219d1138_500.gif?width=450&height=337">
+    <img align="right" alt="Davi-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/863644196711956541/898161009938796584/Pillager_celebrating_BE.gif?width=225&height=316">
 
 </div>  
   
