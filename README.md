@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Davi! 👋
 
-- 🌱 Estudando Python e JavaScript 
+- 🌱 Estudando Python, JavaScript e JSF 
 - 📫 Meu email: davigarciafigueiredo@gmail.com
 
 ##
