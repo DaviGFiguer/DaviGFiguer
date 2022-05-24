@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Python, JavaScript e JSF 
 - 📫 Meu email: davigarciafigueiredo@gmail.com
-
+- 🔗 Site: https://davigfiguer.netlify.app/ 
 ##
 
 <div align="center">
