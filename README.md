@@ -5,7 +5,7 @@
 - 🎓 Formado em Técnico de Informática no ITB (Instituto técnico de Barueri)
 - 🏫 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta
 - 📫 Meu email: davigarciafigueiredo@gmail.com
-- 🔗 Site: https://davigfiguer.netlify.app/ 
+- 🔗 Site: https://davigfiguer.netlify.app/ (Atualmente offline para ajustes)
 ##
 
 <div align="center">
