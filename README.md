@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Davi! 👋
 
-- 🌱 Estudando Python, JavaScript e JSF 
+- 🌱 Estudando Python, JavaScript, JSF e Angular
 - 📫 Meu email: davigarciafigueiredo@gmail.com
 - 🔗 Site: https://davigfiguer.netlify.app/ 
 ##
@@ -32,7 +32,7 @@
       <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Davi-JSF" height="30" width="40" src="https://www.ambient-it.net/wp-content/uploads/2016/04/jsf-logo-175.png">
       <img align="right" alt="Davi-gif" height="150" width="150" src="https://media.discordapp.net/attachments/863644196711956541/898166187870007296/01e625_7e1ff01791204b3e85e1bdc2b37d4a03.gif?width=225&height=225" />
-    
+      <img align="right" alt="Davi-gif" height="150" width="150" src="https://media.discordapp.net/attachments/875451926211346504/1073250134206464030/2048px-Angular_full_color_logo.png?width=683&height=683" />
   </div>
   
 ##
