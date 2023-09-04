@@ -36,7 +36,6 @@
       <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Davi-Angular" height="30" width="40" src="https://media.discordapp.net/attachments/875451926211346504/1073250134206464030/2048px-Angular_full_color_logo.png?width=683&height=683">
-      <img align="right" alt="Davi-ts" height="150" width="150" src="https://cdn.discordapp.com/attachments/875451926211346504/1148227275733598279/512px-Typescript_logo_2020.png?width=683&height=683" />
       <img align="right" alt="Davi-gif" height="150" width="150" src="https://media.discordapp.net/attachments/863644196711956541/898166187870007296/01e625_7e1ff01791204b3e85e1bdc2b37d4a03.gif?width=225&height=225" />
       
   </div>
