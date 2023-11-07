@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Davi! 👋
 
-- 🌱 Estudando Python, JavaScript, JSF e Angular
-- 💼 Trabalhando como Trainee em Engenharia de Software na Prime IT Solutions
+- 🌱 Estudando Python, JavaScript, TypeScript e Angular
+- 💼 Desenvolvedor de Software Junior na Solutis
 - 🎓 Formado em Técnico de Informática no ITB (Instituto técnico de Barueri)
 - 🏫 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta
 - 📫 Meu email: davigarciafigueiredo@gmail.com
