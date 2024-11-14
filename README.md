@@ -3,7 +3,7 @@
 - 🌱 Estudando Python, JavaScript, TypeScript e Angular
 - 💼 Desenvolvedor de Software Junior na Solutis
 - 🎓 Formado em Técnico de Informática no ITB (Instituto técnico de Barueri)
-- 🏫 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta
+- 🏫 Cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba
 - 📫 Meu email: davigarciafigueiredo@gmail.com
 - 🔗 Site: https://davigfiguer.netlify.app/ (Atualmente offline para ajustes)
 ##
